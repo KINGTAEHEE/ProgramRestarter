@@ -1,0 +1,9 @@
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\bin\Release\ProgramRestarter.exe.config
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\bin\Release\ProgramRestarter.exe
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\bin\Release\ProgramRestarter.pdb
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\obj\Release\ProgramRestarter.Form1.resources
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\obj\Release\ProgramRestarter.Form2.resources
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\obj\Release\ProgramRestarter.Properties.Resources.resources
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\obj\Release\ProgramRestarter.csproj.GenerateResource.Cache
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\obj\Release\ProgramRestarter.exe
+C:\Users\YP\documents\visual studio 2015\Projects\ProgramRestarter\ProgramRestarter\obj\Release\ProgramRestarter.pdb
